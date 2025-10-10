@@ -61,9 +61,9 @@ What I bring to the table:
 
 ### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiaque-Hasan&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiaquer-git&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Istiaque-Hasan&theme=dracula&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Istiaquer-git&theme=dracula&hide_border=true)
 
 ---
 
