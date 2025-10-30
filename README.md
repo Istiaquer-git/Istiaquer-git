@@ -26,26 +26,26 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 
-👋 Hi, I’m Istiaque, a curious problem solver who loves bringing ideas to life on the web. For me, code is not just syntax, it is a way to untangle complexity, craft elegant solutions and build products people truly enjoy using.
+👋 Hey there! I’m Istiaque, a passionate creator who turns ideas into living, breathing experiences on the web. To me, coding goes far beyond lines of syntax; it’s a craft for transforming challenges into clarity, shaping smart solutions that people genuinely love to use.
 
 ---
 
 ### 🧠 About Me
-I am passionate about building products that solve real problems and create meaningful experiences for users. My approach blends technical expertise with a strong product mindset, ensuring every solution is impactful, scalable and user-friendly.
+I’m driven by the challenge of crafting products that make a genuine difference in people’s lives. My work combines deep technical insight with a sharp product vision, ensuring every solution is purposeful, scalable, and delightful to use.
 
-What I bring to the table:
-* A user-first mindset, turning ideas into intuitive and valuable products
-* Ability to mentor teams and collaborate across functions to align tech with product goals
-* Commitment to continuous learning and adapting to evolving user needs and technologies
+Here’s what I bring:
+• A strong focus on users, transforming ideas into seamless, valuable experiences
+• A collaborative spirit that empowers teams and bridges technology with clear product direction
+• A growth mindset, constantly learning and evolving to meet new user expectations and emerging technologies
 
 ---
 
 ### 🚀 What Defines Me
 
-🧩 Full-stack developer who treats debugging like solving a puzzle <br />
-💡 Lifelong learner, currently exploring System Analysis <br />
-🌍 Team player who thrives in global collaboration and never misses a beat <br />
-☕ Fueled by tea, meaningful commits, and the occasional power nap <br />
+🧠 Full-stack developer who approaches every bug as a mystery waiting to be cracked <br />
+🚀 Forever curious, diving deep into the world of System Analysis <br />
+🌐 Thrives in diverse teams, bringing energy to every project across borders <br />
+🍵 Powered by tea, purposeful code, plus the magic of a quick recharge nap <br />
 
 ---
 
