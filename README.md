@@ -6,7 +6,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
@@ -14,7 +13,6 @@
 ![.NET Core](https://img.shields.io/badge/.NETCore-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-777BB4?style=flat-square&logo=php&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
