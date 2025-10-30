@@ -9,7 +9,7 @@
 ![Java](https://img.shields.io/badge/Java-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23CF4647.svg?style=flat-square&logo=gulp&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
-![C#](https://img.shields.io/badge/C#-DD0031?style=flat-square&logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/'C#'-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NETCore-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-777BB4?style=flat-square&logo=php&logoColor=white)
