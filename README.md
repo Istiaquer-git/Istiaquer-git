@@ -57,8 +57,6 @@ Here’s what I bring:
 
 ### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Istiaquer-git&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Istiaquer-git&theme=dracula&hide_border=true)
 
 ---
