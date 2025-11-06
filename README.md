@@ -30,9 +30,9 @@
 I’m driven by the challenge of crafting products that make a genuine difference in people’s lives. My work combines deep technical insight with a sharp product vision, ensuring every solution is purposeful, scalable, and delightful to use.
 
 Here’s what I bring:
-• A strong focus on users, transforming ideas into seamless, valuable experiences
-• A collaborative spirit that empowers teams and bridges technology with clear product direction
-• A growth mindset, constantly learning and evolving to meet new user expectations and emerging technologies
+* A strong focus on users, transforming ideas into seamless, valuable experiences
+* A collaborative spirit that empowers teams and bridges technology with clear product direction
+* A growth mindset, constantly learning and evolving to meet new user expectations and emerging technologies
 
 ---
 
